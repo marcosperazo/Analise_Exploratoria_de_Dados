@@ -19,6 +19,8 @@ library(scales)
 library(dplyr)
 library(readr)
 library(tidyr)
+library(stringr)
+library(lubridate)
 
 spec(dados_nao_tratados)
 
@@ -47,5 +49,34 @@ valores_especificos
 # Excluir colunas
 dados_apos_exclusao_colunas <- dados_apos_split_time_ajustado %>% select(-Links, -Time, -Numero)
 
-head(dados_apos_exclusao_colunas, 10)
+# Corrigir nomes
+dados_apos_exclusao_colunas <- dados_apos_exclusao_colunas %>%
+  mutate(Nome = str_replace_all(Nome, "\\r\\n", " "))
 
+# Ajuste na Altura
+dados_apos_ajuste_altura <- dados_apos_exclusao_colunas %>%
+  mutate(Altura = str_extract(Altura, "\\d+\\.\\d+"))
+
+# Ajuste no Peso
+dados_apos_ajuste_peso <- dados_apos_ajuste_altura %>%
+  mutate(Peso = str_extract(Peso, "\\d+(?=kg)"))
+
+# Ajuste na data
+dados_apos_ajuste_data <- dados_apos_ajuste_peso %>%
+  mutate(Data_de_nascimento = mdy(Data_de_nascimento))
+
+# Criação da coluna Mês
+dados_apos_coluna_mes <- dados_apos_ajuste_data %>%
+  mutate(Mês = month(Data_de_nascimento))
+
+
+
+
+# Selecionar e visualizar Nome, Peso e Altura
+dados_selecionados <- dados_apos_ajuste_peso %>%
+  select(Nome, Altura, Peso)
+
+# Exibir os dados
+dados_selecionados
+
+dados_apos_ajuste_data
