@@ -1,4 +1,4 @@
-"Links","Time","Nome","PPG","RPG","APG","Altura","Peso","País","Idade","Data_de_nascimento","DRAFT","Experiência"
+"Links","Time","Nome","PPG","RPG","APG","Altura","Peso","PaÃ­s","Idade","Data_de_nascimento","DRAFT","ExperiÃªncia"
 "https://www.nba.com/player/1630173/precious-achiuwa/","New York Knicks | #5 | Forward","Precious
 Achiuwa","6.3","5.6","1.0","6'8"" (2.03m)","243lb (110kg)","Nigeria","25 years","September 19, 1999","2020 R1 Pick 20","4 Years"
 "https://www.nba.com/player/203500/steven-adams/","Houston Rockets | #12 | Center","Steven
@@ -242,7 +242,7 @@ Dennis","0.9","0.8","0.6","6'2"" (1.88m)","180lb (82kg)","USA","23 years","March
 "https://www.nba.com/player/201942/demar-derozan/","Sacramento Kings | #10 | Guard-Forward","DeMar
 DeRozan","22.2","3.9","4.2","6'6"" (1.98m)","220lb (100kg)","USA","35 years","August 7, 1989","2009 R1 Pick 9","15 Years"
 "https://www.nba.com/player/1631217/moussa-diabate/","Charlotte Hornets | #14 | Forward","Moussa
-Diabaté","5.4","6.4","0.9","6'9"" (2.06m)","210lb (95kg)","France","23 years","January 21, 2002","2022 R2 Pick 43","2 Years"
+Diabatï¿½","5.4","6.4","0.9","6'9"" (2.06m)","210lb (95kg)","France","23 years","January 21, 2002","2022 R2 Pick 43","2 Years"
 "https://www.nba.com/player/1641711/gradey-dick/","Toronto Raptors | #1 | Guard-Forward","Gradey
 Dick","14.4","3.6","1.8","6'6"" (1.98m)","200lb (91kg)","USA","21 years","November 20, 2003","2023 R1 Pick 13","1 Year"
 "https://www.nba.com/player/1631172/ousmane-dieng/","Oklahoma City Thunder | #13 | Forward","Ousmane
@@ -301,7 +301,7 @@ Etienne","--","--","--","6'2"" (1.88m)","200lb (91kg)","USA","25 years","Septemb
 Eubanks","5.1","4.0","1.0","6'10"" (2.08m)","245lb (111kg)","USA","28 years","February 1, 1997","Undrafted","6 Years"
 "https://www.nba.com/player/1641787/tosan-evbuomwan/","Brooklyn Nets | #12 | Forward","Tosan
 Evbuomwan","9.4","4.0","1.6","6'7"" (2.01m)","217lb (98kg)","United Kingdom","24 years","February 16, 2001","Undrafted","1 Year"
-"https://www.nba.com/player/203957/dante-exum/","Dallas Mavericks | #0 | Guard","Danté
+"https://www.nba.com/player/203957/dante-exum/","Dallas Mavericks | #0 | Guard","Dantï¿½
 Exum","9.1","1.7","2.8","6'5"" (1.96m)","214lb (97kg)","Australia","29 years","July 13, 1995","2014 R1 Pick 5","7 Years"
 "https://www.nba.com/player/1628981/bruno-fernando/",,"Bruno
 Fernando","3.4","3.0","1.1","6'9"" (2.06m)","240lb (109kg)","Angola","26 years","August 15, 1998","2019 R2 Pick 34","5 Years"
@@ -567,8 +567,8 @@ Koloko","2.5","2.4","0.5","7'0"" (2.13m)","225lb (102kg)","Cameroon","24 years",
 Konchar","2.4","3.3","0.9","6'5"" (1.96m)","210lb (95kg)","USA","29 years","March 22, 1996","Undrafted","5 Years"
 "https://www.nba.com/player/1628436/luke-kornet/","Boston Celtics | #40 | Center-Forward","Luke
 Kornet","5.2","5.0","1.5","7'1"" (2.16m)","250lb (113kg)","USA","29 years","July 15, 1995","Undrafted","7 Years"
-"https://www.nba.com/player/1630249/vit-krejci/","Atlanta Hawks | #27 | Guard","Vít
-Krej?í","6.9","2.6","2.7","6'8"" (2.03m)","195lb (88kg)","Czech Republic","24 years","June 19, 2000","2020 R2 Pick 37","3 Years"
+"https://www.nba.com/player/1630249/vit-krejci/","Atlanta Hawks | #27 | Guard","Vï¿½t
+Krej?ï¿½","6.9","2.6","2.7","6'8"" (2.03m)","195lb (88kg)","Czech Republic","24 years","June 19, 2000","2020 R2 Pick 37","3 Years"
 "https://www.nba.com/player/1630228/jonathan-kuminga/","Golden State Warriors | #00 | Forward","Jonathan
 Kuminga","16.3","4.7","2.3","6'7"" (2.01m)","225lb (102kg)","DRC","22 years","October 6, 2002","2021 R1 Pick 7","3 Years"
 "https://www.nba.com/player/1628398/kyle-kuzma/","Milwaukee Bucks | #18 | Forward","Kyle
@@ -711,7 +711,7 @@ Mogbo","5.3","4.2","1.7","6'9"" (2.06m)","225lb (102kg)","USA","23 years","Octob
 Monk","18.1","3.8","5.9","6'3"" (1.91m)","200lb (91kg)","USA","27 years","February 4, 1998","2017 R1 Pick 11","7 Years"
 "https://www.nba.com/player/1630541/moses-moody/","Golden State Warriors | #4 | Guard","Moses
 Moody","10.0","2.5","1.3","6'5"" (1.96m)","211lb (96kg)","USA","22 years","May 31, 2002","2021 R1 Pick 14","3 Years"
-"https://www.nba.com/player/1631386/taze-moore/",,"Tazé
+"https://www.nba.com/player/1631386/taze-moore/",,"Tazï¿½
 Moore","3.0","4.0","0.5","6'5"" (1.96m)","195lb (88kg)","USA","26 years","June 29, 1998","Undrafted","1 Year"
 "https://www.nba.com/player/1631111/wendell-moore-jr/","Charlotte Hornets | #9 | Guard","Wendell
 Moore Jr.","3.9","2.6","1.2","6'5"" (1.96m)","215lb (98kg)","USA","23 years","September 18, 2001","2022 R1 Pick 26","2 Years"
@@ -719,7 +719,7 @@ Moore Jr.","3.9","2.6","1.2","6'5"" (1.96m)","215lb (98kg)","USA","23 years","Se
 Morant","22.3","4.1","7.4","6'2"" (1.88m)","174lb (79kg)","USA","25 years","August 10, 1999","2019 R1 Pick 2","5 Years"
 "https://www.nba.com/player/202693/markieff-morris/","Los Angeles Lakers | #88 | Forward","Markieff
 Morris","3.2","1.4","1.1","6'9"" (2.06m)","245lb (111kg)","USA","35 years","September 2, 1989","2011 R1 Pick 13","13 Years"
-"https://www.nba.com/player/1628420/monte-morris/","Phoenix Suns | #23 | Guard","Monté
+"https://www.nba.com/player/1628420/monte-morris/","Phoenix Suns | #23 | Guard","Montï¿½
 Morris","5.0","1.4","1.6","6'2"" (1.88m)","183lb (83kg)","USA","29 years","June 27, 1995","2017 R2 Pick 51","7 Years"
 "https://www.nba.com/player/1630530/trey-murphy-iii/","New Orleans Pelicans | #25 | Forward","Trey
 Murphy III","21.2","5.1","3.5","6'8"" (2.03m)","206lb (93kg)","USA","24 years","June 18, 2000","2021 R1 Pick 17","3 Years"
@@ -884,13 +884,13 @@ Ryan","1.5","0.4","0.2","6'6"" (1.98m)","215lb (98kg)","USA","27 years","April 1
 "https://www.nba.com/player/1627734/domantas-sabonis/","Sacramento Kings | #11 | Forward-Center","Domantas
 Sabonis","19.2","13.9","6.2","6'10"" (2.08m)","240lb (109kg)","Lithuania","28 years","May 3, 1996","2016 R1 Pick 11","8 Years"
 "https://www.nba.com/player/1642275/tidjane-salaun/","Charlotte Hornets | #31 | Forward","Tidjane
-Salaün","5.3","4.2","1.1","6'8"" (2.03m)","207lb (94kg)","France","19 years","August 10, 2005","2024 R1 Pick 6","Rookie"
+Salaï¿½n","5.3","4.2","1.1","6'8"" (2.03m)","207lb (94kg)","France","19 years","August 10, 2005","2024 R1 Pick 6","Rookie"
 "https://www.nba.com/player/1641766/adama-sanogo/",,"Adama
 Sanogo","2.0","1.5","0.3","6'9"" (2.06m)","245lb (111kg)","Mali","23 years","February 12, 2002","Undrafted","1 Year"
 "https://www.nba.com/player/1630611/gui-santos/","Golden State Warriors | #15 | Forward","Gui
 Santos","4.2","3.1","1.4","6'6"" (1.98m)","185lb (84kg)","Brazil","22 years","June 22, 2002","2022 R2 Pick 55","1 Year"
 "https://www.nba.com/player/203967/dario-saric/","Denver Nuggets | #9 | Forward-Center","Dario
-Šari?","3.5","3.3","1.5","6'10"" (2.08m)","225lb (102kg)","Croatia","30 years","April 8, 1994","2014 R1 Pick 12","7 Years"
+ï¿½ari?","3.5","3.3","1.5","6'10"" (2.08m)","225lb (102kg)","Croatia","30 years","April 8, 1994","2014 R1 Pick 12","7 Years"
 "https://www.nba.com/player/1642259/alex-sarr/","Washington Wizards | #20 | Center","Alex
 Sarr","12.7","6.7","2.3","7'0"" (2.13m)","205lb (93kg)","France","19 years","April 26, 2005","2024 R1 Pick 2","Rookie"
 "https://www.nba.com/player/1631204/marcus-sasser/","Detroit Pistons | #25 | Guard","Marcus
@@ -898,7 +898,7 @@ Sasser","5.7","1.1","2.2","6'2"" (1.88m)","195lb (88kg)","USA","24 years","Septe
 "https://www.nba.com/player/1631248/baylor-scheierman/","Boston Celtics | #55 | Guard","Baylor
 Scheierman","2.5","1.4","0.7","6'6"" (1.98m)","205lb (93kg)","USA","24 years","September 26, 2000","2024 R1 Pick 30","Rookie"
 "https://www.nba.com/player/203471/dennis-schroder/","Detroit Pistons | #17 | Guard","Dennis
-Schröder","13.3","2.6","5.3","6'1"" (1.85m)","175lb (79kg)","Germany","31 years","September 15, 1993","2013 R1 Pick 17","11 Years"
+Schrï¿½der","13.3","2.6","5.3","6'1"" (1.85m)","175lb (79kg)","Germany","31 years","September 15, 1993","2013 R1 Pick 17","11 Years"
 "https://www.nba.com/player/1630578/alperen-sengun/","Houston Rockets | #28 | Center","Alperen
 Sengun","19.0","10.5","4.9","6'11"" (2.11m)","243lb (110kg)","Turkey","22 years","July 25, 2002","2021 R1 Pick 16","3 Years"
 "https://www.nba.com/player/1641729/brice-sensabaugh/","Utah Jazz | #28 | Forward","Brice
@@ -1006,7 +1006,7 @@ Toppin","10.3","4.1","1.6","6'9"" (2.06m)","220lb (100kg)","USA","27 years","Mar
 "https://www.nba.com/player/1626157/karl-anthony-towns/","New York Knicks | #32 | Center-Forward","Karl-Anthony
 Towns","24.5","12.9","3.0","7'0"" (2.13m)","248lb (112kg)","USA","29 years","November 15, 1995","2015 R1 Pick 1","9 Years"
 "https://www.nba.com/player/1642422/armel-traore/",,"Armel
-Traoré","1.6","1.7","0.1","6'9"" (2.06m)","245lb (111kg)","France","22 years","January 23, 2003","Undrafted","Rookie"
+Traorï¿½","1.6","1.7","0.1","6'9"" (2.06m)","245lb (111kg)","France","22 years","January 23, 2003","Undrafted","Rookie"
 "https://www.nba.com/player/1631247/luke-travers/","Cleveland Cavaliers | #33 | Forward","Luke
 Travers","0.9","1.3","0.6","6'7"" (2.01m)","207lb (94kg)","Australia","23 years","September 3, 2001","2022 R2 Pick 56","Rookie"
 "https://www.nba.com/player/1629018/gary-trent-jr/","Milwaukee Bucks | #5 | Guard","Gary
