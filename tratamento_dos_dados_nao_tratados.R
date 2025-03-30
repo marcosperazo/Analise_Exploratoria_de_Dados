@@ -69,14 +69,32 @@ dados_apos_ajuste_data <- dados_apos_ajuste_peso %>%
 dados_apos_coluna_mes <- dados_apos_ajuste_data %>%
   mutate(Mês = month(Data_de_nascimento))
 
+# Salvar a tibble como CSV
+write_csv(dados_apos_coluna_mes, "dados_apos_coluna_mes.csv")
 
+# Criar o histograma
+ggplot(dados_apos_coluna_mes, aes(x = Mês)) +
+  geom_histogram(binwidth = 1, fill = "skyblue", color = "black") +
+  scale_x_continuous(breaks = 1:12, labels = month.name) +  # Rotular os meses
+  labs(title = "Histograma dos Meses", x = "Mês", y = "Frequência") +
+  theme_minimal()
 
+# Criar o histograma com linha de densidade
+ggplot(dados_apos_coluna_mes, aes(x = Mês)) +
+  geom_histogram(binwidth = 1, fill = "skyblue", color = "black", aes(y = ..density..)) +
+  geom_density(color = "red", size = 1) +  # Adiciona a linha de densidade
+  scale_x_continuous(breaks = 1:12, labels = month.name) +  # Rotular os meses
+  labs(title = "Histograma com Linha de Densidade", x = "Mês", y = "Densidade") +
+  theme_minimal()
 
-# Selecionar e visualizar Nome, Peso e Altura
-dados_selecionados <- dados_apos_ajuste_peso %>%
-  select(Nome, Altura, Peso)
+# Criar dados agrupados por mês (soma das frequências)
+dados_agrupados <- dados_apos_coluna_mes %>%
+  count(Mês)  # Conta a frequência de cada mês
 
-# Exibir os dados
-dados_selecionados
-
-dados_apos_ajuste_data
+# Gráfico com barras e regressão linear
+ggplot(dados_agrupados, aes(x = Mês, y = n)) +
+  geom_col(fill = "skyblue") +  # Barras representando a frequência
+  geom_smooth(method = "lm", color = "red", se = FALSE) +  # Linha de regressão linear
+  scale_x_continuous(breaks = 1:12, labels = month.name) +  # Rotular os meses
+  labs(title = "Gráfico com Regressão Linear", x = "Mês", y = "Frequência") +
+  theme_minimal()
