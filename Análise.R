@@ -29,7 +29,7 @@ library(tidyr)
 library(stringr)
 library(lubridate)
 
-
+#
 # Carregando a tabela bruta
 dados_tratados <- read_csv("dados_apos_coluna_mes.csv", quote = "\"", locale = locale(encoding = "UTF-8"))
 
